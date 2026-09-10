@@ -1,0 +1,41 @@
+*{
+    padding:10px;
+    margin:0;
+}
+
+
+section{  
+  margin: 20px 0;
+}
+
+ul{    
+  padding-left: 40px;
+}
+
+ul ul ul {
+  margin-top: 10px;
+}
+
+#First-pg, #Second-pg{
+  background-color: black;
+  border: 2px solid ;
+  box-shadow: 0 0 10px 0px gray;
+  border-radius: 20px;
+  padding: 20px;
+  }
+  #Second-pg{
+  color: hotpink;
+  }
+  #First-pg{
+  color: lightblue;
+  }
+  body{
+    font-family: 'Poppins', sans-serif;
+  }
+  h2{
+    font-family: 'Climate Crisis', sans-serif;
+    font-size: 22px;
+  }
+  h1{
+    text-align: center;
+  }
